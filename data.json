@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0",
+    "name": "pixel-plot",
+    "position": [-22.5, 0.1, 22.5],
+    "dimension": [5, 0.2, 5],
+    "price": "1",
+    "house":[0.25,0.25,0.25],
+    "houseposition":[-21.5, 0, 24.5],
+    "uri": "https://bafybeibpdhl3piubzjq4qxativerwzpqpfxy26hkeepre3523llfrbwrmu.ipfs.w3s.link/kisspng-building-architecture-house-animated-5b5580e4968c85.9820865515323302126167.jpg"
+  },
+  {
+    "id": "1",
+    "name": "pixel-plot",
+    "position": [-17.5, 0.1, 22.5],
+    "dimension": [5,0.2, 5],
+    "price": "1",
+    "house":[0.25,0.25,0.25],
+    "houseposition":[-16.5, 0, 28.5],
+    "uri": "https://bafybeibpdhl3piubzjq4qxativerwzpqpfxy26hkeepre3523llfrbwrmu.ipfs.w3s.link/kisspng-building-architecture-house-animated-5b5580e4968c85.9820865515323302126167.jpg"
+  },
+  {
+    "id": "2",
+    "name": "pixel-plot",
+    "position": [-17.5, 0.1, 17.5],
+    "dimension": [5,0.2, 5],
+    "price": "1",
+    "house":[0.25,0.25,0.25],
+    "houseposition":[-26.5, 0, 26.5],
+    "uri": "https://bafybeibpdhl3piubzjq4qxativerwzpqpfxy26hkeepre3523llfrbwrmu.ipfs.w3s.link/kisspng-building-architecture-house-animated-5b5580e4968c85.9820865515323302126167.jpg"
+  }
+]
